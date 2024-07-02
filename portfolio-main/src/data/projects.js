@@ -1,12 +1,12 @@
 export const projectsData = [
     {
         "id": 0,
-        "language_used": "React |  JavaScript | BootStrap | CSS | JQuery",
+        "language_used": "React |  JavaScript | BootStrap | CSS",
         "about_avatar": "portfolio",
         "updated_on": "2022-10-25T14:34:06.579936Z",
         "Project_title": "Portfolio",
         "Project_info": "A responsive Portfolio Website for developers. Used React open source libraries to build the website.",
-        "project_link": "https://github.com/GaneshKosuri/portfolio",
+        "project_link": "https://github.com/SravzzDev/Portfolio",
         // "demo_link": "https://ganesh-kosuri.vercel.app/"
     },
     {
@@ -16,7 +16,7 @@ export const projectsData = [
         "updated_on": "2022-10-25T14:34:06.579936Z",
         "Project_title": "Jobs App",
         "Project_info": "A responsive website similar to Job platforms like Noukari, Angel, Indeed. built using NxtWave CCBP APIs.",
-        "project_link": "https://github.com/GaneshKosuri/jobsApp",
+        "project_link": "https://github.com/SravzzDev/Jops-App",
         "demo_link": "https://jobs-app-topaz.vercel.app/login"
     },
     {
@@ -26,7 +26,7 @@ export const projectsData = [
         "updated_on": "2022-10-25T14:36:00.960801Z",
         "Project_title": "Emoji Game",
         "Project_info": "A Simple Responsive Game using Emojis, Clicking all the emojis only once wins the Game.",
-        "project_link": "https://github.com/GaneshKosuri/emojisFinder",
+        "project_link": "https://github.com/SravzzDev/EmojisFinder-Game",
         "demo_link": "https://emoji-game-one.vercel.app/"
     },
     {
@@ -36,7 +36,7 @@ export const projectsData = [
         "updated_on": "2022-10-25T14:38:56.030366Z",
         "Project_title": "Rock Paper Scissors Game",
         "Project_info": "A Simple Responsive Game which resembles Rock Paper Scissors, you will get +1 or -1 when you win / lose the game.",
-        "project_link": "https://github.com/GaneshKosuri/rockPaperScissors",
+        "project_link": "https://github.com/SravzzDev/RockPaperScissors-Game",
         "demo_link": "https://rock-paper-scissors-lake-nu.vercel.app/"
     },
 

@@ -1,6 +1,6 @@
-import { useEffect } from 'react'
+import React, { useEffect } from 'react';
 import { BrowserRouter } from "react-router-dom";
-
+import { Helmet } from 'react-helmet';
 import AOS from "aos";
 import "aos/dist/aos.css";
 
@@ -13,7 +13,6 @@ import Progress from "./components/SkillBars/progress";
 import ContactMe from "./components/ContactMe/ContactMe";
 import Achievements from "./components/Achievements";
 import Experience from './components/Experience';
-
 
 import "./App.css";
 
@@ -29,7 +28,9 @@ function App() {
   return (
     <>
       <BrowserRouter>
-
+        <Helmet>
+          <title>Sravani Portfolio</title>
+        </Helmet>
         <div className="homepage">
           <Navbar />
           <Home />

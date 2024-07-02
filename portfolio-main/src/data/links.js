@@ -14,7 +14,7 @@ export const homeContactDetails = [
     {
         "id": 2,
         "name": "GitHub",
-        "link": "https://github.com/GaneshKosuri",
+        "link": "https://github.com/SravzzDev",
         "social_icon": "fa fa-github"
     },
     {
